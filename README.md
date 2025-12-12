@@ -11,6 +11,6 @@ In terminal:
     b. (Windows) ```venv\Scripts\activate```
     b. (Linux/macOS) ```source venv/bin/activate```
 
-2. Run ```pip install requirements.txt```
+2. Run ```pip install -r requirements.txt```
 
 3. Step through the notebook!
